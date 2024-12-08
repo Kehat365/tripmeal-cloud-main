@@ -1,0 +1,6 @@
+# Ignore the license file
+LICENSE
+
+# Ignore .git folder and other version control files
+.git
+.gitignore
